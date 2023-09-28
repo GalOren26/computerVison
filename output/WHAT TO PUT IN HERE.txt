@@ -1,2 +1,0 @@
-This folder is used to submit all the output files which are not required to run the code. This includes visual files
-that are not included in your report.
