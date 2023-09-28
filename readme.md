@@ -4,7 +4,7 @@ This repo contains my assigments and summaries for Algo and App in Computer Visi
   
   2.featureDescriptors
   
-  3.classification-semnatic-semgnation
+  3.classification-semnatic-semgnation using DL
   
   4.Homographies-and-Panorama-Stitching
   
