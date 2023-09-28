@@ -1,0 +1,2 @@
+This directory includes all your own data (which was not provided). You can organize it however you wish (including sub-folders),
+just make sure to load this data relatively to the "code" folder.
