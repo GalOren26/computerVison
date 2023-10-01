@@ -1,4 +1,5 @@
 This repo contains my assigments and summaries for Algo and App in Computer Vision course at the Technion University.
+Each branch is dedicated to a different task assigned throughout the course.
 
   1.basic-image-procssing
   
